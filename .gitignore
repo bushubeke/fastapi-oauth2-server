@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+bin/
+__pycache__/
+include/
+lib/
+oauth2/__pycache__/
+tests/__pycache__/
+.env
+.pytest_cache/

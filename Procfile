@@ -1,0 +1,1 @@
+web: gunicorn --reload -w 4 -k uvicorn.workers.UvicornWorker manage:app 
